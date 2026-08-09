@@ -16,7 +16,7 @@ Below is my summary blueprint for repositioning Amazon S3—transforming this se
 
 ---
 
-{{< img src="/images/Blog3.png" alt="A New Perspective on Amazon S3" >}}
+{{< img src="/images/blog3.png" alt="A New Perspective on Amazon S3" >}}
 
 ## 1. Technology Overview
 

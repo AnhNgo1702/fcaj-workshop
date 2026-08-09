@@ -16,7 +16,7 @@ Dưới đây là phác thảo đúc kết của em về việc tái định v�
 
 ---
 
-{{< img src="/images/Blog3.png" alt="Góc nhìn mới về Amazon S3" >}}
+{{< img src="/images/blog3.png" alt="Góc nhìn mới về Amazon S3" >}}
 
 ## 1. Giới thiệu sơ lược về công nghệ
 
