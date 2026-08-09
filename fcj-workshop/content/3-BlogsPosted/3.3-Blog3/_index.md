@@ -14,7 +14,7 @@ Amazon EKS Pod Identity has recently added the **session policies** feature, all
 
 ---
 
-{{< img src="/images/Blog3.png" alt="Session Policies in Amazon EKS Pod Identity" >}}
+{{< img src="/images/blog3.png" alt="Session Policies in Amazon EKS Pod Identity" >}}
 
 ## 1. How EKS Pod Identity Session Policies Work
 
