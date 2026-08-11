@@ -42,7 +42,7 @@ The platform is built on a production-ready AWS infrastructure:
 - **Storage Tier (Amazon S3)**: Provides durable and unlimited storage for OCR invoice images.
 - **Monitoring & Alerting**: Streams container logs directly to **AWS CloudWatch** using Docker's native `awslogs` driver, triggering email alerts via **AWS SNS** upon system exceptions.
 
-![WEB_JENIKA Architecture](/images/5-Workshop/5.1-Workshop-overview/graph.jpeg)
+![WEB_JENIKA Architecture](/images/5-Workshop/5.1-Workshop-overview/graph.jpg)
 
 *AWS Services & Network Solution Used*  
 - **Amazon EC2**: Hosts the containerized application services (`t3.micro`).

@@ -42,7 +42,7 @@ Hệ thống được triển khai trên hạ tầng AWS chuẩn Production-read
 + **Tầng lưu trữ (Amazon S3)**: Lưu trữ không giới hạn ảnh hóa đơn OCR.
 + **Giám sát & Cảnh báo**: Đẩy logs từ Docker lên **AWS CloudWatch** thông qua log driver `awslogs` và kích hoạt gửi email cảnh báo qua **AWS SNS** khi phát sinh lỗi hệ thống.
 
-![WEB_JENIKA Architecture](/images/5-Workshop/5.1-Workshop-overview/graph.jpeg)
+![WEB_JENIKA Architecture](/images/5-Workshop/5.1-Workshop-overview/graph.jpg)
 
 *Dịch vụ AWS sử dụng & Giải pháp mạng*  
 - **Amazon EC2**: Chạy máy chủ ứng dụng Next.js & Spring Boot (cấu hình `t3.micro`).
